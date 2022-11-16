@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JsonGallagher. I have 8+ years experience as a data-driven growth marketer
+- 👋 Hi, I’m @JsonGallagher. I have 8+ years experience as a data-driven growth marketing leader.
 - 👀 I’m interested in machine learning/artificial intelligence and data science as they relate to marketing and analytics.
 - 🌱 I’m currently learning Python and SQL.
 - 💞️ I’m looking to contribute to open source projects related to the above fields/areas of expertise.
