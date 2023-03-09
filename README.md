@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JsonGallagher. As a data-driven marketing leader with 9 years of experience, I have a proven track record of developing and executing effective marketing strategies that drive revenue and organizational growth.
+- 👋 Hi, I’m @JsonGallagher. As a data-driven marketing leader with 9 years of experience, I have a proven track record of developing and executing effective marketing strategies that drive revenue and organizational growth. Aside from marketing, I am a skilled web developer specializing in crafting visually appealing and user-friendly websites.
 - 👀 I’m interested in machine learning/artificial intelligence and data science as they relate to marketing and analytics.
 - 🌱 I’m currently learning Python and SQL.
 - 💞️ I’m looking to contribute to open source projects related to the above fields/areas of expertise.
