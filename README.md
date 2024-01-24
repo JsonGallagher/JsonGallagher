@@ -2,4 +2,4 @@
 - 👀 I’m interested in machine learning/artificial intelligence and data science as they relate to marketing and analytics.
 - 🌱 I’m currently learning Python and SQL.
 - 💞️ I’m looking to contribute to open source projects related to the above fields/areas of expertise.
-- 📫 How to reach me: jason@mintgrowth.xyz
+- 📫 How to reach me: jason@jasongallagher.co
