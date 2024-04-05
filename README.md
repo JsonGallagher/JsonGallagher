@@ -1,6 +1,6 @@
 <div style="width: 100%;">
   <a href="https://www.jasongallagher.co">
-    <img src="text-mobile.svg" style="width: 100%;" alt="Bringing ideas to life with code - mobile sized">
+    <img src="text.svg" style="width: 100%;" alt="Bringing ideas to life with code animated text with a rainbow background">
   </a>
 </div>
 <ul>
