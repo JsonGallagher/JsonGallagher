@@ -8,5 +8,5 @@
   <li>👀 I’m interested in Machine Learning/Artificial Intelligence and Data Science as they relate to marketing and analytics.</li>
   <li>🌱 I’m currently learning full-stack web development and Python.</li>
   <li>💞️ I’m looking to contribute to open-source projects related to the above fields/areas of expertise.</li>
-  <li>📫 How to reach me: jason@jasongallagher.co</li>
+  <li>📫 How to reach me: <a href="mailto:jason@jasongallagher.co">jason@jasongallagher.co</a></li>
 </ul>
