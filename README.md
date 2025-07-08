@@ -10,7 +10,7 @@
   <li>
     👋 Hi, I’m
     <a href="https://www.linkedin.com/in/jsongallagher/">@JsonGallagher</a>.
-    I'm a marketing leader &amp; full-stack engineer fueled by relentless
+    I'm a marketing leader &amp; growth engineer fueled by relentless
     curiosity, blending creativity and innovation to uncover growth
     opportunities, empower teams, and deliver impact. I'm passionate about
     harnessing artificial intelligence to drive innovation, optimize
@@ -20,7 +20,7 @@
   <li>
     🌱 I’m currently exploring:
     <ul>
-      <li>Building full-stack web apps with the PERN stack (JavaScript, React, Node/Express, PostgreSQL)</li>
+      <li>Building web apps with the PERN stack (JavaScript, React, Node/Express, PostgreSQL)</li>
       <li>Integrating AI APIs (e.g., OpenAI) to power intelligent features</li>
       <li>Leveraging AI-assisted tools to accelerate development</li>
       <li>Deepening skills in system design and scalable architecture</li>
