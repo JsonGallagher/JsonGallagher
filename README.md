@@ -12,9 +12,7 @@
     <a href="https://www.linkedin.com/in/jsongallagher/">@JsonGallagher</a>.
     I'm a marketing leader &amp; growth engineer fueled by relentless
     curiosity, blending creativity and innovation to uncover growth
-    opportunities, empower teams, and deliver impact. I'm passionate about
-    harnessing artificial intelligence to drive innovation, optimize
-    decision-making, and shape the future of marketing and business strategy.
+    opportunities, empower teams, and deliver impact.
   </li>
 
   <li>
@@ -27,7 +25,7 @@
     </ul>
   </li>
 
-  <li>I’m looking to contribute to open-source projects related to the above fields.</li>
+  <li>I’d like to contribute to open-source projects related to the above fields.</li>
   <li>
     How to reach me:
     <a href="mailto:jason@jasongallagher.co">jason@jasongallagher.co</a> // 
