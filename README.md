@@ -8,7 +8,7 @@
 
 <ul>
   <li>
-    👋 Hi, I’m
+    Hi, I’m
     <a href="https://www.linkedin.com/in/jsongallagher/">@JsonGallagher</a>.
     I'm a marketing leader &amp; growth engineer fueled by relentless
     curiosity, blending creativity and innovation to uncover growth
@@ -18,7 +18,7 @@
   </li>
 
   <li>
-    🌱 I’m currently exploring:
+    I’m currently exploring:
     <ul>
       <li>Building web apps with the PERN stack (JavaScript, React, Node/Express, PostgreSQL)</li>
       <li>Integrating AI APIs (e.g., OpenAI) to power intelligent features</li>
@@ -27,9 +27,9 @@
     </ul>
   </li>
 
-  <li>💞️ I’m looking to contribute to open-source projects related to the above fields.</li>
+  <li>I’m looking to contribute to open-source projects related to the above fields.</li>
   <li>
-    📫 How to reach me:
+    How to reach me:
     <a href="mailto:jason@jasongallagher.co">jason@jasongallagher.co</a> // 
     <a href="https://x.com/heyjson">x.com/heyjson</a>
   </li>
