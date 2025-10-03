@@ -1,11 +1,3 @@
-<div style="width: 100%;">
-  <a href="https://www.jasongallagher.co">
-    <img src="text.svg"
-         style="width: 100%;"
-         alt="Animated text: Bringing ideas to life with code" />
-  </a>
-</div>
-
 <ul>
   <li>
     Hi, I’m
